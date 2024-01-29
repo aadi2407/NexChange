@@ -8,7 +8,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
     min-height: 100vh;
   }
  
@@ -36,7 +35,9 @@
    .container h2 {
     text-align: center;
     font-family: sans-serif;
+    font-weight: 250;
     text-decoration: underline;
+    padding-bottom: 10px;
 }
   
   form {
